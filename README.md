@@ -15,16 +15,13 @@
 --- 
 ⚙️ Deploy
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
-[![Kubernates](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
-
 ---
 [![wakatime](https://wakatime.com/badge/user/018bcc63-d735-428e-80b5-8dbebd89ca4f.svg)](https://wakatime.com/@018bcc63-d735-428e-80b5-8dbebd89ca4f)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrodrigues01)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souluanf&layout=compact)](https://github.com/mrodrigues01?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrodrigues01&layout=compact)](https://github.com/mrodrigues01?tab=repositories)
 
 ---
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=souluanf&show_icons=true)](https://github.com/mrodrigues01?tab=repositories)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=mrodrigues01&show_icons=true)](https://github.com/mrodrigues01?tab=repositories)
